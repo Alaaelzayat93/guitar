@@ -317,8 +317,8 @@ transition: all .3s ease-in-out}
     color:#A3A4AA;
 }
 .events a{
-    background-color: #2b2b2b;
-    color: #fff;
+    background-color: #fff;
+    color: #000;
     padding:14px 40px;
     border-radius: 10px;
     border:1px solid #000;
