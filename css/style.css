@@ -1,5 +1,5 @@
 .clearfix{clear: both;}
-
+body{overflow-x: hidden;}
 /***********start upper-section****************/
 .header .upper-section .row .col i{
     position: relative;
@@ -42,6 +42,7 @@ height: 70px}
 }
 .navbar .navbar-nav .nav-link:hover{
     border-bottom: 1px solid red;
+    color: red;
 }
 .navbar-light .navbar-nav .active>.nav-link{color:red;}
 
@@ -56,7 +57,7 @@ height: 70px}
     top: 300px;
     color: #fff;
     font-size: 87px;
-    width: 473px;
+    width: 40%;
     left:49px;
 }
     
@@ -144,7 +145,7 @@ background: #F5F6FA;
     margin-bottom: 30px
 }
 .groups p{
-    color:#A3A4AA;width:400px;
+    color:#A3A4AA;width:40%;
     width: 681px;
     margin-left: 253px;
     margin-bottom: 40px
@@ -160,13 +161,13 @@ background: #F5F6FA;
     margin-top: -430px;
     margin-bottom: 40px;
     color: #fff;
-    width: 300px;
+    width: 30%;
     font-family: fantasy;
     margin-left: 518px;
 }
 .best-time p{
     color:#fff;
-    width: 534px;
+    width: 50%;
     margin-left: 398px;
     margin-bottom: 116px;
 }
